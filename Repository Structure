@@ -1,0 +1,12 @@
+farm-guardian-bots/
+├── README.md
+├── src/
+│   ├── drone_control.py
+│   ├── pest_detection.py
+│   ├── data_collection.py
+│   └── main.py
+├── data/
+│   ├── images/             # Placeholder for image data
+│   └── processed_data/     # Processed pest detection data
+└── models/
+    └── pest_detection_model.pth  # Model file for pest detection (if using PyTorch)
